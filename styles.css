@@ -31,6 +31,7 @@ body{
     font-size: 18px;
     background-color: #7c7c7c2b;
     width: calc(100% - 50px);
+    color: #fff;
 }
 
 .btn-search{
@@ -73,6 +74,7 @@ body{
 .text-weather{
     color: #fff;
     margin-left: 20px;
+    text-transform: capitalize;
 }
 
 .humidity{
